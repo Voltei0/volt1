@@ -79,7 +79,7 @@ multipoint {
 	min-width: 100%;
 	min-height: 100%;
 	z-index: -2;
-	filter: blur(2px) brightness(80%);
+	filter: blur(0px) brightness(80%);
 	pointer-events: none;
     position: absolute;
 	top: 50%;
